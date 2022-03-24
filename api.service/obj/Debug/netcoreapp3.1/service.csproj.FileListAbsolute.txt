@@ -1,0 +1,15 @@
+D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\service.deps.json
+D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\service.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\service.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.service\obj\Debug\netcoreapp3.1\service.csproj.AssemblyReference.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.service\obj\Debug\netcoreapp3.1\service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamentos\_BackEnd\APIDDD\api.service\obj\Debug\netcoreapp3.1\service.AssemblyInfoInputs.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.service\obj\Debug\netcoreapp3.1\service.AssemblyInfo.cs
+D:\Treinamentos\_BackEnd\APIDDD\api.service\obj\Debug\netcoreapp3.1\service.csproj.CoreCompileInputs.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.service\obj\Debug\netcoreapp3.1\service.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.service\obj\Debug\netcoreapp3.1\service.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\api.domain.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\data.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\api.domain.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\data.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.service\obj\Debug\netcoreapp3.1\service.csproj.CopyComplete

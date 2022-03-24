@@ -1,0 +1,17 @@
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\bin\Debug\netcoreapp3.1\crosscutting.deps.json
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\bin\Debug\netcoreapp3.1\crosscutting.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\bin\Debug\netcoreapp3.1\crosscutting.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\obj\Debug\netcoreapp3.1\crosscutting.csproj.AssemblyReference.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\obj\Debug\netcoreapp3.1\crosscutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\obj\Debug\netcoreapp3.1\crosscutting.AssemblyInfoInputs.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\obj\Debug\netcoreapp3.1\crosscutting.AssemblyInfo.cs
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\obj\Debug\netcoreapp3.1\crosscutting.csproj.CoreCompileInputs.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\obj\Debug\netcoreapp3.1\crosscutting.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\obj\Debug\netcoreapp3.1\crosscutting.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\bin\Debug\netcoreapp3.1\api.domain.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\bin\Debug\netcoreapp3.1\data.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\bin\Debug\netcoreapp3.1\service.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\bin\Debug\netcoreapp3.1\service.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\bin\Debug\netcoreapp3.1\data.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\bin\Debug\netcoreapp3.1\api.domain.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.crosscutting\obj\Debug\netcoreapp3.1\crosscutting.csproj.CopyComplete

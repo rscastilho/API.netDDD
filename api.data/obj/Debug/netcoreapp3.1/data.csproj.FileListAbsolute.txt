@@ -1,0 +1,16 @@
+D:\Treinamentos\_BackEnd\APIDDD\api.data\bin\Debug\netcoreapp3.1\data.deps.json
+D:\Treinamentos\_BackEnd\APIDDD\api.data\bin\Debug\netcoreapp3.1\data.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.data\bin\Debug\netcoreapp3.1\data.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.data\obj\Debug\netcoreapp3.1\data.csproj.AssemblyReference.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.data\obj\Debug\netcoreapp3.1\data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamentos\_BackEnd\APIDDD\api.data\obj\Debug\netcoreapp3.1\data.AssemblyInfoInputs.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.data\obj\Debug\netcoreapp3.1\data.AssemblyInfo.cs
+D:\Treinamentos\_BackEnd\APIDDD\api.data\obj\Debug\netcoreapp3.1\data.csproj.CoreCompileInputs.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.data\obj\Debug\netcoreapp3.1\data.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.data\obj\Debug\netcoreapp3.1\data.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.data\bin\Debug\netcoreapp3.1\data.runtimeconfig.json
+D:\Treinamentos\_BackEnd\APIDDD\api.data\bin\Debug\netcoreapp3.1\data.runtimeconfig.dev.json
+D:\Treinamentos\_BackEnd\APIDDD\api.data\obj\Debug\netcoreapp3.1\data.genruntimeconfig.cache
+D:\Treinamentos\_BackEnd\APIDDD\api.data\bin\Debug\netcoreapp3.1\api.domain.dll
+D:\Treinamentos\_BackEnd\APIDDD\api.data\bin\Debug\netcoreapp3.1\api.domain.pdb
+D:\Treinamentos\_BackEnd\APIDDD\api.data\obj\Debug\netcoreapp3.1\data.csproj.CopyComplete
