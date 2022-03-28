@@ -12,4 +12,3 @@ D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\api.domain.d
 D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\data.dll
 D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\api.domain.pdb
 D:\Treinamentos\_BackEnd\APIDDD\api.service\bin\Debug\netcoreapp3.1\data.pdb
-D:\Treinamentos\_BackEnd\APIDDD\api.service\obj\Debug\netcoreapp3.1\service.csproj.CopyComplete
